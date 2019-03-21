@@ -1,0 +1,7 @@
+{
+	"token" : "Your discord bot token goes here",
+	"prefix" : "!!",
+	"hookname" : "dishook",
+	
+	"imgurClientID" : ""
+}
